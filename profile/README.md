@@ -20,5 +20,5 @@ user = client.user_by_username(username="instagram")
 print(user["username"], user["follower_count"])
 ```
 
-[Website](https://herascrape.com) · [Docs](https://herascrape.com/docs) ·
-[API reference](https://api.herascrape.com/docs) · [Pricing](https://herascrape.com/pricing)
+[Website](https://herascrape.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile) · [Docs](https://herascrape.com/docs?utm_source=github&utm_medium=readme&utm_campaign=org-profile) ·
+[API reference](https://api.herascrape.com/docs) · [Pricing](https://herascrape.com/pricing?utm_source=github&utm_medium=readme&utm_campaign=org-profile)
