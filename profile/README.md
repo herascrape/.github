@@ -1,6 +1,6 @@
 # herascrape
 
-Instagram private API for developers. 37 real-time `GET` endpoints for profiles,
+Instagram private API for developers. Real-time `GET` endpoints for profiles,
 followers and following, posts, reels, stories, highlights, comments, likers,
 hashtags, locations, audio and search, returned as Instagram's own JSON.
 $0.0004 per successful call, flat. Failed calls are not billed.
